@@ -15,4 +15,4 @@ Airalyics
 
 ### School Projects
 CS246: Object-Oriented Software Development
-- Add Google drive link for cc3k. (can't make repo public, because project is reused for following terms, ask for access)
+- Have a private git repo for it. Send me an email or message and I can give you access. 
